@@ -1,0 +1,4 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# node modules
+Html/angular2demo/node_modules
